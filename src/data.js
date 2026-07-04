@@ -110,7 +110,6 @@ export const EVENTS = [
     loc: 'Chennai',
     photos: [
       '/photos/DSC08343.JPG',
-      '/photos/DSC08319.ARW',
       '/photos/DSC08219.JPG',
       '/photos/DSC08257.JPG',
       '/photos/DSC08326.JPG'
