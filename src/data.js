@@ -1,4 +1,4 @@
-// Set your hero image path here (e.g. '/photos/hero.jpg')
+// Set your hero image path here (e.g. '/photos/webp/hero.webp' or '/photos/jpg/hero.jpg')
 export const HERO_IMAGE_SRC = '';
 
 export const EVENTS = [
@@ -7,21 +7,21 @@ export const EVENTS = [
     year: 2026,
     loc: 'Chennai',
     photos: [
-      '/photos/sana 3.webp',
-      '/photos/DSC02537.webp',
-      '/photos/sana 19.webp',
-      '/photos/sana 17.webp',
-      '/photos/andrea 1.webp',
-      '/photos/kayadu.webp',
-      '/photos/kayadu 2.webp',
-      '/photos/harsha 3.webp',
-      '/photos/har1.webp',
-      '/photos/harsha 1.webp',
-      '/photos/reshma 1.webp',
-      '/photos/sanjana 1.webp',
-      '/photos/stage 2.webp',
-      '/photos/stage 1.webp',
-      '/photos/DSC02235.webp'
+      '/photos/webp/sana 3.webp',
+      '/photos/webp/DSC02537.webp',
+      '/photos/webp/sana 19.webp',
+      '/photos/webp/sana 17.webp',
+      '/photos/webp/andrea 1.webp',
+      '/photos/webp/kayadu.webp',
+      '/photos/webp/kayadu 2.webp',
+      '/photos/webp/harsha 3.webp',
+      '/photos/webp/har1.webp',
+      '/photos/webp/harsha 1.webp',
+      '/photos/webp/reshma 1.webp',
+      '/photos/webp/sanjana 1.webp',
+      '/photos/webp/stage 2.webp',
+      '/photos/webp/stage 1.webp',
+      '/photos/webp/DSC02235.webp'
     ]
   },
   {
@@ -29,14 +29,13 @@ export const EVENTS = [
     year: 2026,
     loc: 'Chennai',
     photos: [
-      '/photos/DSC07687.webp',
-      '/photos/DSC07649.JPG',
-      '/photos/DSC07663.JPG',
-      '/photos/DSC07646.webp',
-      '/photos/DSC06990.webp',
-      '/photos/DSC07215.webp',
-      '/photos/DSC07257.webp',
-      '/photos/DSC07646.webp'
+      '/photos/webp/DSC07687.webp',
+      '/photos/jpg/DSC07649.JPG',
+      '/photos/jpg/DSC07663.JPG',
+      '/photos/webp/DSC07646.webp',
+      '/photos/webp/DSC06990.webp',
+      '/photos/webp/DSC07215.webp',
+      '/photos/webp/DSC07257.webp'
     ]
   },
   {
@@ -44,14 +43,14 @@ export const EVENTS = [
     year: 2026,
     loc: 'Chennai',
     photos: [
-      '/photos/DSC07557.JPG',
-      '/photos/DSC07538.webp',
-      '/photos/DSC07594.JPG',
-      '/photos/DSC07600.webp',
-      '/photos/DSC08718.JPG',
-      '/photos/DSC08637.JPG',
-      '/photos/DSC08651.webp',
-      '/photos/DSC08677.webp'
+      '/photos/jpg/DSC07557.JPG',
+      '/photos/webp/DSC07538.webp',
+      '/photos/jpg/DSC07594.JPG',
+      '/photos/webp/DSC07600.webp',
+      '/photos/jpg/DSC08718.JPG',
+      '/photos/jpg/DSC08637.JPG',
+      '/photos/webp/DSC08651.webp',
+      '/photos/webp/DSC08677.webp'
     ]
   },
   {
@@ -59,15 +58,16 @@ export const EVENTS = [
     year: 2026,
     loc: 'Kattankulathur',
     photos: [
-      '/photos/DSC03961.webp',
-      '/photos/DSC03884.webp',
-      '/photos/DSC03908.webp',
-      '/photos/DSC04337.JPG',
-      '/photos/DSC03899.JPG',
-      '/photos/DSC04327.webp',
-      '/photos/DSC04395.webp',
-      '/photos/DSC04569.webp',
-      '/photos/DSC04024.webp'
+      '/photos/webp/DSC03961.webp',
+      '/photos/webp/DSC03884.webp',
+      '/photos/webp/DSC03908.webp',
+      '/photos/webp/DSC03926.webp',
+      '/photos/jpg/DSC04337.JPG',
+      '/photos/jpg/DSC03899.JPG',
+      '/photos/webp/DSC04327.webp',
+      '/photos/webp/DSC04395.webp',
+      '/photos/webp/DSC04569.webp',
+      '/photos/webp/DSC04024.webp'
     ]
   },
   {
@@ -75,11 +75,11 @@ export const EVENTS = [
     year: 2026,
     loc: 'Chennai',
     photos: [
-      '/photos/IMG_5982.JPG',
-      '/photos/IMG_6005.JPG',
-      '/photos/DSC06043.JPG',
-      '/photos/DSC05956.JPG',
-      '/photos/IMG_6023.webp'
+      '/photos/jpg/IMG_5982.JPG',
+      '/photos/jpg/IMG_6005.JPG',
+      '/photos/jpg/DSC06043.JPG',
+      '/photos/jpg/DSC05956.JPG',
+      '/photos/webp/IMG_6023.webp'
     ]
   },
   {
@@ -87,10 +87,10 @@ export const EVENTS = [
     year: 2025,
     loc: 'Chennai',
     photos: [
-      '/photos/1000149636.webp',
-      '/photos/1000149620 (1).jpg',
-      '/photos/DSC08105.JPG',
-      '/photos/DSC08113.webp'
+      '/photos/webp/1000149636.webp',
+      '/photos/jpg/1000149620 (1).jpg',
+      '/photos/jpg/DSC08105.JPG',
+      '/photos/webp/DSC08113.webp'
     ]
   },
   {
@@ -98,10 +98,10 @@ export const EVENTS = [
     year: 2025,
     loc: 'Chennai',
     photos: [
-      '/photos/_DSC6744.webp',
-      '/photos/_DSC6739.JPG',
-      '/photos/_DSC6756.webp',
-      '/photos/_DSC6769.webp'
+      '/photos/webp/_DSC6744.webp',
+      '/photos/jpg/_DSC6739.JPG',
+      '/photos/webp/_DSC6756.webp',
+      '/photos/webp/_DSC6769.webp'
     ]
   },
   {
@@ -109,10 +109,10 @@ export const EVENTS = [
     year: 2025,
     loc: 'Chennai',
     photos: [
-      '/photos/DSC08343.JPG',
-      '/photos/DSC08219.JPG',
-      '/photos/DSC08257.JPG',
-      '/photos/DSC08326.JPG'
+      '/photos/jpg/DSC08343.JPG',
+      '/photos/jpg/DSC08219.JPG',
+      '/photos/jpg/DSC08257.JPG',
+      '/photos/jpg/DSC08326.JPG'
     ]
   },
   {
@@ -120,10 +120,10 @@ export const EVENTS = [
     year: 2025,
     loc: 'Chennai',
     photos: [
-      '/photos/IMG_2012.webp',
-      '/photos/IMG_2010.webp',
-      '/photos/IMG_1973.webp',
-      '/photos/IMG_1969.JPG'
+      '/photos/webp/IMG_2012.webp',
+      '/photos/webp/IMG_2010.webp',
+      '/photos/webp/IMG_1973.webp',
+      '/photos/jpg/IMG_1969.JPG'
     ]
   },
   {
@@ -131,10 +131,10 @@ export const EVENTS = [
     year: 2025,
     loc: 'Chennai',
     photos: [
-      '/photos/IMG_5193.webp',
-      '/photos/IMG_5179.webp',
-      '/photos/IMG_5192.webp',
-      '/photos/IMG_5186.JPG'
+      '/photos/webp/IMG_5193.webp',
+      '/photos/webp/IMG_5179.webp',
+      '/photos/webp/IMG_5192.webp',
+      '/photos/jpg/IMG_5186.JPG'
     ]
   },
   {
@@ -142,9 +142,9 @@ export const EVENTS = [
     year: 2024,
     loc: 'Chennai',
     photos: [
-      '/photos/DSC00876.webp',
-      '/photos/DSC00936.webp',
-      '/photos/DSC00950.JPG'
+      '/photos/webp/DSC00876.webp',
+      '/photos/webp/DSC00936.webp',
+      '/photos/jpg/DSC00950.JPG'
     ]
   },
 
@@ -153,10 +153,10 @@ export const EVENTS = [
     year: 2024,
     loc: 'Chennai',
     photos: [
-      '/photos/DSC01578.webp',
-      '/photos/DSC01456.webp',
-      '/photos/DSC01585.webp',
-      '/photos/DSC01419.webp'
+      '/photos/webp/DSC01578.webp',
+      '/photos/webp/DSC01456.webp',
+      '/photos/webp/DSC01585.webp',
+      '/photos/webp/DSC01419.webp'
     ]
   }
 ];
